@@ -1,33 +1,42 @@
 [{
-		"name": "Guide 1",
-		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
+		"name": "Tips 1",
+		"description": "Parents Need to Know:
+
+Parents need to know that Toca Life World: Build Stories combines all the apps in the Toca Life series in one place.
+
+The free download comes with eight locations and 39 characters already installed. There's a large variety of in-app purchases -- ranging in price from $.99 to $13.99 -- to add more locations and characters, and the shopping cart icon is prominently displayed at all times.
+
+If you've already purchased other Toca Life apps, you can import them into Toca Life World: Build Stories for free. As with all the apps in the series, play is open-ended and involves kids moving characters and objects around different locations.
+
+Some areas have a Record option that allows kids to record their voice as they move things around and narrate a story; for that option, the app asks for permission to access your device's microphone.
+",
 		"img": "https://i.imgur.com/jkbVBw4.png"
 	},
 	{
-		"name": "Guide 2",
+		"name": "Tips 2",
 		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
-		"img": "https://m.media-amazon.com/images/M/MV5BMjNkZjgyMmEtMzBjMi00ZmM3LWFlMTYtODQ3NzNhZjAzZWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"img": "https://i.imgur.com/EFhCxuZ.png"
 	},
 	{
-		"name": "Guide 3",
+		"name": "Tips 3",
 		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
-		"img": "https://m.media-amazon.com/images/M/MV5BMjNkZjgyMmEtMzBjMi00ZmM3LWFlMTYtODQ3NzNhZjAzZWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"img": "https://i.imgur.com/Po0Yhev.png"
 	},
 
  {
-		"name": "Guide 4",
+		"name": "Tips 4",
 		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
-		"img": "https://m.media-amazon.com/images/M/MV5BMjNkZjgyMmEtMzBjMi00ZmM3LWFlMTYtODQ3NzNhZjAzZWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"img": "https://i.imgur.com/2ns1XGg.png"
 	},
 	{
-		"name": "Guide 5",
+		"name": "Tips 5",
 		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
-		"img": "https://m.media-amazon.com/images/M/MV5BMjNkZjgyMmEtMzBjMi00ZmM3LWFlMTYtODQ3NzNhZjAzZWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"img": "https://i.imgur.com/Upefz0l.png"
 	},
  {
-		"name": "Guide 6",
+		"name": "Tips 6",
 		"description": "Description is here nnnnnnnnnnnnnnnnnnn",
-		"img": "https://m.media-amazon.com/images/M/MV5BMjNkZjgyMmEtMzBjMi00ZmM3LWFlMTYtODQ3NzNhZjAzZWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"img": "https://i.imgur.com/Z448giy.png"
 	},
 
 
