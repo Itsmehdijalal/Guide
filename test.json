@@ -2,11 +2,11 @@
   "ADS" : {
     "Ads_startapp" : 2090v4738,
     "banner_id" : "ca-app-pub-3940256099942544/6300978111",
-    "banner_idf" : "MG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "banner_idf" : "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     "Interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-    "Interstitial_idf" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idf" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
     "Nativeads_id" : "ca-app-pub-3940256099942544/2247696110",
-    "Nativeads_idf" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "networkAd" : "facebook"
+    "Nativeads_idf" : "173186393601951_356298065290782",
+    "networkAd" : "Facebook"
   }
 }
