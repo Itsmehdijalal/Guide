@@ -60,7 +60,7 @@
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
+        "gravity": "center",
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
